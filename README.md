@@ -6,8 +6,22 @@ Dockerfile for the tstrohmeier/awscli image
 ## Pull image
 
 ``` bash
-docker pull tstrohmeier/awscli
+docker pull tstrohmeier/awscli:latest
+
+# version 3.6.4
+docker pull tstrohmeier/awscli:3.6.4
 ```
 
 ## What is installed in this image?
 * awscli tool via the pip installer
+
+## ECS 
+If you need the `ecs-cli` too, then please have a look at the `ecs-cli` branch.
+
+### Pull ECS Version 
+``` bash
+docker pull tstrohmeier/awscli:latest-ecs
+
+# version 3.6.4
+docker pull tstrohmeier/awscli:3.6.4-ecs
+```
