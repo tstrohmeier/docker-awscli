@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## Version 3.6.4-ecs (2018-03-07)
+Added ecs-cli
+
 ## Version 3.6.4 (2018-02-16)
 Update to Python Version 3.6.4
 
