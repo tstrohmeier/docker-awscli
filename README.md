@@ -8,8 +8,8 @@ Dockerfile for the tstrohmeier/awscli image
 ``` bash
 docker pull tstrohmeier/awscli:latest
 
-# version 3.6.4
-docker pull tstrohmeier/awscli:3.6.4
+# version 3.6.5
+docker pull tstrohmeier/awscli:3.6.5
 ```
 
 ## What is installed in this image?
