@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Version 3.6.6 (2018-06-12)
+* Update to Python Version 3.6.6
+* Added apt-get cleanup
+
 ## Version 3.6.5 (2018-06-12)
 * Update to Python Version 3.6.5
 * Added jq to the image
