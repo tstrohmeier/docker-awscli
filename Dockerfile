@@ -1,6 +1,8 @@
-FROM python:3.6.5
+FROM python:3.6.6
 
 MAINTAINER Thomas Strohmeier
 
-RUN apt-get update && apt-get install -y jq \
+RUN apt-get update \
+	&& apt-get install -y jq \
+	&& apt-get clean \
 	&& pip install awscli \
