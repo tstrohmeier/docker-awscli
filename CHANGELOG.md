@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Version 3.6.6 (2018-06-12)
+## Version 3.6.6 (2018-08-28)
 * Update to Python Version 3.6.6
 * Added apt-get cleanup
 
