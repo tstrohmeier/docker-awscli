@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## Version 3.8.3-ecs (2020-06-07)
+* Update to Python Version 3.8.3
+
 ## Version 3.7.2 (2019-03-01)
 * Update to Python Version 3.7.3
 
